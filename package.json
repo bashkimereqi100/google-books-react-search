@@ -1,0 +1,21 @@
+{
+  "name": "google-books-react-search",
+  "version": "1.0.0",
+  "description": "An application created using the MERN stack and allows users to search for books via the Google Books API. Search results are dynamically rendered in the UI and users have the option to save and/or delete books.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashkimereqi100/google-books-react-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bashkimereqi100/google-books-react-search/issues"
+  },
+  "homepage": "https://github.com/bashkimereqi100/google-books-react-search#readme"
+}
