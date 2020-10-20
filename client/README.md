@@ -1,7 +1,7 @@
 This homework is bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
-## Folder Structure
+ Folder Structure
 
 my-app/
   README.md
