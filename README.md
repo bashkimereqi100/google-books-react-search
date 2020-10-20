@@ -1,4 +1,4 @@
-## React Google Books Search
+Google-Books-React-Search
 
 Is an application created using the MERN stack and allows us to search for books via the Google Books API. Search results are dynamically rendered in the UI and we have the option to save or delete books.
 
