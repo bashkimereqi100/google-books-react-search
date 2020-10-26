@@ -28,7 +28,7 @@ View the deployed application at: <b><a href="https://google-books-react-search.
 5. If a user wants to remove a saved book from the list, they may click the `Delete` button to remove the book from the page. In the back end, this deletes the document from the Mongo database.
 
 
-![Google Books Search](https://user-images.githubusercontent.com/52802240/77485425-55f33b00-6dea-11ea-986c-17e9e4572261.gif)
+![hippo](https://user-images.githubusercontent.com/52802240/77485425-55f33b00-6dea-11ea-986c-17e9e4572261.gif)
 
 
 
